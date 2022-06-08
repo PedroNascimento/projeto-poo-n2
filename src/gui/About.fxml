@@ -5,8 +5,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<VBox prefHeight="228.0" prefWidth="347.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18">
+<VBox prefHeight="228.0" prefWidth="347.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Label text="Sobre">
          <font>
@@ -16,10 +15,23 @@
             <Insets bottom="10.0" left="20.0" top="10.0" />
          </padding>
       </Label>
-      <Label text="JavaFX application demo">
+      <Label prefHeight="23.0" prefWidth="209.0" text="Projeto de Conclusão de Semestre">
          <padding>
             <Insets left="20.0" />
          </padding>
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label text="Disciplina de POO">
+         <padding>
+            <Insets left="20.0" top="10.0" />
+         </padding>
+      </Label>
+      <Label text="Autor: Pedro Alexandre Silva do Nascimento">
+         <VBox.margin>
+            <Insets left="20.0" top="10.0" />
+         </VBox.margin>
       </Label>
    </children>
 </VBox>
