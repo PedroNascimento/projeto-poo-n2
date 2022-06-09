@@ -8,6 +8,7 @@ Aluno: Pedro Alexandre Silva do Nascimento
 - Java
 - JavaFX
 - Scene Builder
+- JDBC
 - PostgreSQL
 - IDE Eclipse
 
