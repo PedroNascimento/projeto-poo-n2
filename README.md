@@ -11,8 +11,14 @@ Aluno: Pedro Alexandre Silva do Nascimento
 - PostgreSQL
 - IDE Eclipse
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/7572825/172912003-325b8f04-5072-4b65-b4bd-54c621b01cb0.png" />
+</div>
 
-### Assistir a apresentação do Projeto
+
+### Assistir a apresentação do Projeto 
+
+[Clique para assistir!](https://www.youtube.com/watch?v=bMyRRtAdXVo)
 
 
 ##
